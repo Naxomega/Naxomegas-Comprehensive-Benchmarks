@@ -1,7 +1,7 @@
 # Naxomegas-Comprehensive-Benchmarks
 Here I will provide every benchmark I ran on my own hardware. I hope it will help someone.
 ## Hardware
-### Desktop PC
+### [Desktop PC](https://github.com/Naxomega/Naxomegas-Comprehensive-Benchmarks/blob/main/Benchmark/Desktop.md)
 - Intel Core i5-12400F
 - Nvidia GeForce GTX 1660 Super
 - 32GB of DDR4 RAM
