@@ -3,16 +3,20 @@
 - Slight overclock (+49MHz GPU, +200MHz VRAM)
 - Xbox Store game
 - Ran with all my background apps (it shouldn't affect performance, but still)
+# Supported Upscaling techs
+- FSR 2
+- XeSS 1
+- DLSS 3 (not supported by my GPU)
 ## High Preset Tests
 | AA/Upscaling Tech | Average FPS | 1% Low FPS |
 |:-------------:|:-------------:|:-------------:|
 | MSAA x2 | 81 | 65 |
 | MSAA x4 | 78 | 63 |
 | MSAA x8 | 74 | 60 |
-| FSR Quality | 77 | 62 |
-| FSR Balanced | 80 | 65 |
-| XeSS Quality | 73 | 61 |
-| XeSS Balanced | 75 | 62 |
+| FSR 2 Quality | 77 | 62 |
+| FSR 2 Balanced | 80 | 65 |
+| XeSS 1 Quality | 73 | 61 |
+| XeSS 1 Balanced | 75 | 62 |
 
 ## Ultra Preset Tests
 | AA/Upscaling Tech | Average FPS | 1% Low FPS |
@@ -20,10 +24,10 @@
 | MSAA x2 | 60 | 46 |
 | MSAA x4 | 59 | 46 |
 | MSAA x8 | 54 | 41 |
-| FSR Quality | 58 | 48 |
-| FSR Balanced | 57 | 48 |
-| XeSS Quality | 48 | 37 |
-| XeSS Balanced | 51 | 41 |
+| FSR 2 Quality | 58 | 48 |
+| FSR 2 Balanced | 57 | 48 |
+| XeSS 1 Quality | 48 | 37 |
+| XeSS 1 Balanced | 51 | 41 |
 
 ## What does that mean?
 You might ask: Are upscaling techniques supposed to improve performance? Yes, but not in 100% of cases
